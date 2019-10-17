@@ -1,0 +1,132 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:static;
+  left:auto;
+  width:1132px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u94_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1132px;
+  height:442px;
+  background:inherit;
+  background-color:rgba(242, 242, 242, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u94 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1132px;
+  height:442px;
+}
+#u95 {
+  position:absolute;
+  left:2px;
+  top:213px;
+  width:1128px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u96_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:226px;
+  height:67px;
+  background:inherit;
+  background-color:rgba(25, 158, 216, 1);
+  border:none;
+  border-radius:10px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:20px;
+  color:#FFFFFF;
+}
+#u96 {
+  position:absolute;
+  left:184px;
+  top:188px;
+  width:226px;
+  height:67px;
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:20px;
+  color:#FFFFFF;
+}
+#u97 {
+  position:absolute;
+  left:2px;
+  top:22px;
+  width:222px;
+  word-wrap:break-word;
+}
+#u98_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:75px;
+  height:27px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-size:18px;
+}
+#u98 {
+  position:absolute;
+  left:85px;
+  top:118px;
+  width:75px;
+  height:27px;
+  font-size:18px;
+}
+#u99 {
+  position:absolute;
+  left:0px;
+  top:2px;
+  width:75px;
+  white-space:nowrap;
+}
+#u100 {
+  position:absolute;
+  left:170px;
+  top:108px;
+  width:367px;
+  height:42px;
+}
+#u100_input {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:367px;
+  height:42px;
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  text-decoration:none;
+  color:#000000;
+  text-align:left;
+}
